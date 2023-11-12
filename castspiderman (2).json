@@ -1,12 +1,36 @@
-[
-{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"castspiderman"},
-{"type":"table","name":"castspiderman","database":"castspiderman","data":
-[
-{"id":"1","name":"Tom Holland","character_name":"Peter Parker \/ Spider-Man","birthdate":"1996-06-01","nationality":"English","poster":"https:\/\/images.app.goo.gl\/mHwpoKEXUaWdsv1n7"},
-{"id":"2","name":"Zendaya","character_name":"Michelle Jones","birthdate":"1996-09-01","nationality":"American","poster":"https:\/\/images.app.goo.gl\/HYGR1AfG3F63abs47"},
-{"id":"3","name":"Jake Gyllenhaal","character_name":"Quentin Beck \/ Mysterio","birthdate":"1980-12-19","nationality":"American","poster":"https:\/\/images.app.goo.gl\/jvrr8JzqPLk2xLzcA"},
-{"id":"4","name":"Marisa Tomei","character_name":"May Parker","birthdate":"1964-12-04","nationality":"American","poster":"https:\/\/images.app.goo.gl\/5bhh9ke8YzBmEuSm6"}
+{
+    "result": [
+        {
+          "id":"1",
+          "name":"Tom Holland",
+          "character_name":"Peter Parker \/ Spider-Man",
+          "birthdate":"1996-06-01",
+          "nationality":"English",
+          "poster":"https:\/\/images.app.goo.gl\/mHwpoKEXUaWdsv1n7"
+        },
+        {
+          "id":"2",
+          "name":"Zendaya",
+          "character_name":"Michelle Jones",
+          "birthdate":"1996-09-01",
+          "nationality":"American",
+          "poster":"https:\/\/images.app.goo.gl\/HYGR1AfG3F63abs47"
+        },
+        {
+          "id":"3",
+          "name":"Jake Gyllenhaal",
+          "character_name":"Quentin Beck \/ Mysterio",
+          "birthdate":"1980-12-19",
+          "nationality":"American",
+          "poster":"https:\/\/images.app.goo.gl\/jvrr8JzqPLk2xLzcA"
+        },
+        {
+          "id":"4",
+          "name":"Marisa Tomei",
+          "character_name":"May Parker",
+          "birthdate":"1964-12-04",
+          "nationality":"American",
+          "poster":"https:\/\/images.app.goo.gl\/5bhh9ke8YzBmEuSm6"
+        }
 ]
 }
-]
